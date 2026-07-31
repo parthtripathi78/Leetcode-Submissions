@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0931-minimum-falling-path-sum) |
 ## String
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [0931-minimum-falling-path-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
