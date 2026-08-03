@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0931-minimum-falling-path-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0931-minimum-falling-path-sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Math
