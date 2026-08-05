@@ -69,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
