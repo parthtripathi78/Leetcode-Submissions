@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0931-minimum-falling-path-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
