@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0972-equal-rational-numbers](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0972-equal-rational-numbers) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
