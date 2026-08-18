@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0931-minimum-falling-path-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0931-minimum-falling-path-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
@@ -112,4 +114,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
