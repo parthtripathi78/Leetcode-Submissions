@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0972-equal-rational-numbers](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0972-equal-rational-numbers) |
 | [1563-stone-game-v](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1563-stone-game-v) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,8 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
