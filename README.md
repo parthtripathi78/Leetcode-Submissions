@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
