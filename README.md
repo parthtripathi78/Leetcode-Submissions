@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3525-find-x-value-of-array-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-equal-rational-numbers](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0972-equal-rational-numbers) |
 | [1563-stone-game-v](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3525-find-x-value-of-array-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
