@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1563-stone-game-v](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1563-stone-game-v) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0972-equal-rational-numbers](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0972-equal-rational-numbers) |
+| [1143-longest-common-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
