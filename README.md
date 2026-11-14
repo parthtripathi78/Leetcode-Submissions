@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0972-equal-rational-numbers](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0972-equal-rational-numbers) |
 | [1143-longest-common-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
+| [0763-partition-labels](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0763-partition-labels](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0763-partition-labels) |
 ## Minimax
 |  |
 | ------- |
