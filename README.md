@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -194,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
+## Tree
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
