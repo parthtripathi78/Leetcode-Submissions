@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1563-stone-game-v](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/1563-stone-game-v) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/parthtripathi78/Leetcode-Submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Counting
 |  |
 | ------- |
